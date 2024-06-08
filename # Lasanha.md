@@ -1,4 +1,4 @@
-# Lasanha
+# Lasanha (c/leite gordo)
 
 ## Ingredientes:
 - azeite virgem
@@ -14,7 +14,7 @@
 - farinha
 - folhas de lasanha prontas a ir ao forno
 - queijo ralado
-- leite
+- leite gordo
 
 
 
